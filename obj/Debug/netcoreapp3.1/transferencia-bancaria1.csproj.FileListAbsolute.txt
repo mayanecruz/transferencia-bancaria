@@ -1,0 +1,14 @@
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\bin\Debug\netcoreapp3.1\transferencia-bancaria1.exe
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\bin\Debug\netcoreapp3.1\transferencia-bancaria1.deps.json
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\bin\Debug\netcoreapp3.1\transferencia-bancaria1.runtimeconfig.json
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\bin\Debug\netcoreapp3.1\transferencia-bancaria1.runtimeconfig.dev.json
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\bin\Debug\netcoreapp3.1\transferencia-bancaria1.dll
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\bin\Debug\netcoreapp3.1\transferencia-bancaria1.pdb
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.csprojAssemblyReference.cache
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.AssemblyInfoInputs.cache
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.AssemblyInfo.cs
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.csproj.CoreCompileInputs.cache
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.dll
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.pdb
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.genruntimeconfig.cache
+C:\workspace\dio\transferencia-bancaria\transferencia-bancaria1\obj\Debug\netcoreapp3.1\transferencia-bancaria1.csproj.AssemblyReference.cache
